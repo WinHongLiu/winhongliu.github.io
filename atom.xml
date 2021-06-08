@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-07T07:26:55.469Z</updated>
+  <updated>2021-06-08T13:40:20.419Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,18 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>心有随想</title>
+    <link href="http://example.com/2021/06/08/%E5%BF%83%E6%9C%89%E9%9A%8F%E6%83%B3/"/>
+    <id>http://example.com/2021/06/08/%E5%BF%83%E6%9C%89%E9%9A%8F%E6%83%B3/</id>
+    <published>2021-06-08T13:31:03.000Z</published>
+    <updated>2021-06-08T13:40:20.419Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今天她看到我值班的时候叫了我一声，平时的她应该直接出去，我不知道这是礼貌性的问候还是想叫我&lt;br&gt;起码，我感觉这是一个好的开始，我突然充满力量。&lt;/p&gt;
+&lt;p&gt;但是当时我还是默默的低下头不敢看她，不知道是怎么回事，明明很开心却低下头玩手机</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>想由随写</title>
     <link href="http://example.com/2021/06/07/%E6%83%B3%E7%94%B1%E9%9A%8F%E5%86%99/"/>
     <id>http://example.com/2021/06/07/%E6%83%B3%E7%94%B1%E9%9A%8F%E5%86%99/</id>
     <published>2021-06-07T06:52:38.000Z</published>
-    <updated>2021-06-07T07:26:55.469Z</updated>
+    <updated>2021-06-08T13:40:05.523Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h4 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h3 id=&quot;她&quot;&gt;&lt;a href=&quot;#她&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h3 id=&quot;她&quot;&gt;&lt;a href=&quot;#她&quot; class=&quot;headerlink&quot;</summary>
         
       
     

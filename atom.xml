@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-15T13:42:00.539Z</updated>
+  <updated>2021-06-20T11:36:00.092Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>6.2</title>
+    <link href="http://example.com/2021/06/20/6-20/"/>
+    <id>http://example.com/2021/06/20/6-20/</id>
+    <published>2021-06-20T11:30:12.000Z</published>
+    <updated>2021-06-20T11:36:00.092Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今天2020.6.20父亲节，大中午下起来磅礴大雨，在此之前我是想今天去告白的，我一直祈求上天希望雨快点过去，结果收到上天的回复，不一会就停了。结果我还是没那个勇气.本想告别我刻在骨子里的懦弱，本来我在家里演习了N边可惜还是一样.&lt;/p&gt;
+&lt;p&gt;但是我看到一句话：不要轻易低</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>分割线</title>
